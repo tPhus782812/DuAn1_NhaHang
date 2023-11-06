@@ -3,7 +3,7 @@
             <div class="toggle">
                 <div class="logo">
                     <img src="layout/images/logo.png">
-                    <h2>Tech<span class="danger">Phone</span></h2>
+                    <h2>Res<span class="danger">taurant</span></h2>
                 </div>
                 <div class="close" id="close-btn">
                     <span class="material-icons-sharp">
@@ -17,13 +17,13 @@
                     <span class="material-icons-sharp">
                         dashboard
                     </span>
-                    <h3>Dashboard</h3>
+                    <h3>Quản Lý</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         person_outline
                     </span>
-                    <h3>Users</h3>
+                    <h3>Tài Khoản</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
@@ -35,44 +35,44 @@
                     <span class="material-icons-sharp">
                         insights
                     </span>
-                    <h3>Analytics</h3>
+                    <h3>Phân Tích</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         mail_outline
                     </span>
-                    <h3>Tickets</h3>
+                    <h3>Tin Nhắn</h3>
                     <span class="message-count">27</span>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         inventory
                     </span>
-                    <h3>Sale List</h3>
+                    <h3>Doanh Thu</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         report_gmailerrorred
                     </span>
-                    <h3>Reports</h3>
+                    <h3>Báo Cáo</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         settings
                     </span>
-                    <h3>Settings</h3>
+                    <h3>Cài Đặt</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         add
                     </span>
-                    <h3>New Login</h3>
+                    <h3>Thêm</h3>
                 </a>
                 <a href="#">
                     <span class="material-icons-sharp">
                         logout
                     </span>
-                    <h3>Logout</h3>
+                    <h3>Thoát</h3>
                 </a>
             </div>
         </aside>
@@ -81,7 +81,7 @@
         <!-- Main Content -->
         <main>
             <div class="head_title">
-                <h1>Dashboard</h1>
+                <h1>Quản Lý</h1>
                 <div class="search">
                     <span class="icon_search material-icons-sharp">
                         search
@@ -94,7 +94,7 @@
                 <div class="sales">
                     <div class="status">
                         <div class="info">
-                            <h3>Total Sales</h3>
+                            <h3>Tổng Doanh Thu</h3>
                             <h1>$65,024</h1>
                         </div>
                         <div class="progresss">
@@ -110,7 +110,7 @@
                 <div class="visits">
                     <div class="status">
                         <div class="info">
-                            <h3>Site Visit</h3>
+                            <h3>Lượng Truy Cập</h3>
                             <h1>24,981</h1>
                         </div>
                         <div class="progresss">
@@ -126,7 +126,7 @@
                 <div class="searches">
                     <div class="status">
                         <div class="info">
-                            <h3>Searches</h3>
+                            <h3>Lượng Tìm Kiếm</h3>
                             <h1>14,147</h1>
                         </div>
                         <div class="progresss">
@@ -144,7 +144,7 @@
 
             <!-- New Users Section -->
             <div class="new-users">
-                <h2>New Users</h2>
+                <h2>Tài Khoản Mới</h2>
                 <div class="user-list">
                     <div class="user">
                         <img src="layout/images/profile-2.jpg">
@@ -172,14 +172,14 @@
 
             <!-- Recent Orders Table -->
             <div class="recent-orders">
-                <h2>Recent Orders</h2>
+                <h2>Các Đơn Gần Đây</h2>
                 <table>
                     <thead>
                         <tr>
-                            <th>Course Name</th>
-                            <th>Course Number</th>
-                            <th>Payment</th>
-                            <th>Status</th>
+                            <th>Tên Khóa Học</th>
+                            <th>Mã Khóa Học</th>
+                            <th>Phương Thức</th>
+                            <th>Trạng Thái</th>
                             <th></th>
                         </tr>
                     </thead>
@@ -211,7 +211,7 @@
 
                 <div class="profile">
                     <div class="info">
-                        <p>Hey, <b>Hoang</b></p>
+                        <p>Chào, <b>Hoang</b></p>
                         <small class="text-muted">Admin</small>
                     </div>
                     <div class="profile-photo">
@@ -225,14 +225,14 @@
             <div class="user-profile">
                 <div class="logo">
                     <img src="layout/images/logo.png">
-                    <h2>TechPhone</h2>
-                    <p>Fullstack Web Developer</p>
+                    <h2>Restaurant</h2>
+                    <p>Nhà Hàng Cao Cấp</p>
                 </div>
             </div>
 
             <div class="reminders">
                 <div class="header">
-                    <h2>Reminders</h2>
+                    <h2>Giờ Hoạt Động</h2>
                     <span class="material-icons-sharp">
                         notifications_none
                     </span>
@@ -246,9 +246,9 @@
                     </div>
                     <div class="content">
                         <div class="info">
-                            <h3>Workshop</h3>
+                            <h3>Thứ 2 - Thứ 7</h3>
                             <small class="text_muted">
-                                08:00 AM - 12:00 PM
+                                09:00 AM - 10:00 PM
                             </small>
                         </div>
                         <span class="material-icons-sharp">
@@ -265,9 +265,9 @@
                     </div>
                     <div class="content">
                         <div class="info">
-                            <h3>Workshop</h3>
+                            <h3>Chủ Nhật</h3>
                             <small class="text_muted">
-                                08:00 AM - 12:00 PM
+                                10:00 AM - 11:00 PM
                             </small>
                         </div>
                         <span class="material-icons-sharp">
@@ -281,7 +281,7 @@
                         <span class="material-icons-sharp">
                             add
                         </span>
-                        <h3>Add Reminder</h3>
+                        <h3>Thêm Lời Nhắc</h3>
                     </div>
                 </div>
 
