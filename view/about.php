@@ -17,16 +17,16 @@
             <div class="col-lg-6">
                 <div class="row g-3">
                     <div class="col-6 text-start">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="view/layout/assets/img/about-1.jpg">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="layout/assets/img/about-1.jpg">
                     </div>
                     <div class="col-6 text-start">
-                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="view/layout/assets/img/about-2.jpg" style="margin-top: 25%;">
+                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="layout/assets/img/about-2.jpg" style="margin-top: 25%;">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="view/layout/assets/img/about-3.jpg">
+                        <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="layout/assets/img/about-3.jpg">
                     </div>
                     <div class="col-6 text-end">
-                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="view/layout/assets/img/about-4.jpg">
+                        <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="layout/assets/img/about-4.jpg">
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item text-center rounded overflow-hidden">
                     <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="view/layout/assets/img/team-1.jpg" alt="">
+                        <img class="img-fluid" src="layout/assets/img/team-1.jpg" alt="">
                     </div>
                     <h5 class="mb-0">Alex</h5>
                     <small>Bếp Trưởng</small>
@@ -80,7 +80,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="team-item text-center rounded overflow-hidden">
                     <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="view/layout/assets/img/team-3.jpg" alt="">
+                        <img class="img-fluid" src="layout/assets/img/team-3.jpg" alt="">
                     </div>
                     <h5 class="mb-0">Kevin</h5>
                     <small>Bếp Phó</small>
@@ -94,7 +94,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="team-item text-center rounded overflow-hidden">
                     <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="view/layout/assets/img/team-2.jpg" alt="">
+                        <img class="img-fluid" src="layout/assets/img/team-2.jpg" alt="">
                     </div>
                     <h5 class="mb-0">Jack</h5>
                     <small>Phụ Bếp</small>
@@ -108,7 +108,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item text-center rounded overflow-hidden">
                     <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="view/layout/assets/img/team-4.jpg" alt="">
+                        <img class="img-fluid" src="layout/assets/img/team-4.jpg" alt="">
                     </div>
                     <h5 class="mb-0">Lionel</h5>
                     <small>Phụ Bếp</small>

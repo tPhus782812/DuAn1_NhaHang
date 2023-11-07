@@ -19,17 +19,19 @@
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
 
     <!-- Libraries Stylesheet -->
-    <link href="view/layout/assets/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="view/layout/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="view/layout/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <link href="layout/assets/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="layout/assets/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="layout/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="view/layout/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="layout/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="view/layout/assets/css/style.css" rel="stylesheet">
+    <link href="layout/assets/css/style.css" rel="stylesheet">
+    <link href="layout/assets/css/login.css" rel="stylesheet">
 </head>
 
 <body>
@@ -54,11 +56,12 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto py-0 pe-4">
-                        <a href="index.php" class="nav-item nav-link">Trang Chủ</a>
+                        <a href="index.php" class="nav-item nav-link active">Trang Chủ</a>
                         <a href="index.php?pg=about" class="nav-item nav-link">Giới Thiệu</a>
                         <a href="index.php?pg=service" class="nav-item nav-link">Dịch Vụ</a>
                         <a href="index.php?pg=menu" class="nav-item nav-link">Thực Đơn</a>
                         <a href="index.php?pg=contact" class="nav-item nav-link">Liên Hệ</a>
+                        <a href="index.php?pg=login" class="nav-item nav-link">Đăng Nhập</a>
                     </div>
                     <a href="index.php?pg=booking" class="btn btn-primary py-2 px-4">Đặt Bàn Ngay</a>
                 </div>

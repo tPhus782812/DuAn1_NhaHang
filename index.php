@@ -17,6 +17,9 @@
             case 'service':
                 include_once "view/service.php";
                 break;
+            case 'login':
+                include_once "view/login.php";
+                break;
             default:
             include_once "view/home.php";
                 break;
