@@ -1,6 +1,6 @@
 <?php 
-    include_once "model/pdo.php";
-    include_once "model/food.php";
+    include_once "dao/pdo.php";
+    include_once "dao/food.php";
 
 
     $get_all_food = get_all_food(6);

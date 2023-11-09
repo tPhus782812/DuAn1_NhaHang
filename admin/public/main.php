@@ -3,7 +3,7 @@
             <div class="toggle">
                 <div class="logo">
                     <img src="layout/images/logo.png">
-                    <h2>Res<span class="danger">taurant</span></h2>
+                    <h2>Golden<span class="danger">Spoon</span></h2>
                 </div>
                 <div class="close" id="close-btn">
                     <span class="material-icons-sharp">

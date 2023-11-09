@@ -24,17 +24,17 @@ require_once 'pdo.php';
 // }
 
 function get_all_food($limit){
-    $sql = "SELECT * FROM food WHERE bestseller = 1 ORDER BY id DESC LIMIT ".$limit;
+    $sql = "SELECT * FROM food WHERE 1 ORDER BY ID_Food DESC LIMIT ".$limit;
     return pdo_query($sql);
 }
-function showsp($a) {
-    $html_show = '';
-    foreach ($a as $value) {
-        extract($value);
-        $html_show.='';
-    }
-    return $html_show;
-}
+// function showsp($a) {
+//     $html_show = '';
+//     foreach ($a as $value) {
+//         extract($value);
+//         $html_show.='';
+//     }
+//     return $html_show;
+// }
 
 
 
