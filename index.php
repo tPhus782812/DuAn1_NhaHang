@@ -1,4 +1,11 @@
 <?php 
+    include_once "model/pdo.php";
+    include_once "model/food.php";
+
+
+    $get_all_food = get_all_food(6);
+
+
     include_once "view/header.php";
     if(isset($_GET['pg'])&&($_GET['pg']!="")){
         switch ($_GET["pg"]) {
@@ -21,10 +28,12 @@
                 include_once "view/login.php";
                 break;
             default:
+            $get_all_food = get_all_food(6);
             include_once "view/home.php";
                 break;
         }
     }else {
+        $get_all_food = get_all_food(6);
         include_once "view/home.php";
     }
     include_once "view/footer.php";

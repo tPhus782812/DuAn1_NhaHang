@@ -23,8 +23,8 @@ require_once 'pdo.php';
 //     }
 // }
 
-function get_dssp($limit){
-    $sql = "SELECT * FROM sanpham WHERE bestseller = 1 ORDER BY id DESC LIMIT ".$limit;
+function get_all_food($limit){
+    $sql = "SELECT * FROM food WHERE bestseller = 1 ORDER BY id DESC LIMIT ".$limit;
     return pdo_query($sql);
 }
 function showsp($a) {
